@@ -19,11 +19,13 @@ are needed for questions like
 To explore this, I'm using a diagramof the concepts, entities and relations in
 this system, with a Web Ontology style in mind.
 
+<img src="graph.png" alt="A graph of the network of government oversight">
+
+
 ## Collaboration
 
 If you're interested in collaborating on this, [email](mailto:jbothma@gmail.com) or [tweet](twitter.com/jdbothma) me.
 
-<img src="graph.png" alt="A graph of the network of government oversight">
 
 ## Editing the diagram
 
