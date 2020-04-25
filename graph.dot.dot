@@ -1,0 +1,37 @@
+digraph G {
+	graph [bb="0,0,1041.7,108"];
+	node [label="\N"];
+	Western	[height=0.5,
+		pos="51.995,18",
+		width=1.3721];
+	Cape	[height=0.5,
+		pos="302,90",
+		width=0.95686];
+	Provincial	[height=0.5,
+		pos="412,90",
+		width=1.5887];
+	Treasury	[height=0.5,
+		pos="51.995,90",
+		width=1.4443];
+	Treasury -> Western	[pos="e,46.083,36.275 46.117,72.055 45.299,64.346 45.057,55.027 45.39,46.364"];
+	Treasury -> Western	[pos="e,57.908,36.275 57.874,72.055 58.692,64.346 58.934,55.027 58.601,46.364"];
+	Gambling	[height=0.5,
+		pos="543,90",
+		width=1.5526];
+	and	[height=0.5,
+		pos="645,90",
+		width=0.77632];
+	Racing	[height=0.5,
+		pos="733,90",
+		width=1.1735];
+	Board	[height=0.5,
+		pos="832,90",
+		width=1.0652];
+	Municipalities	[height=0.5,
+		pos="965,90",
+		width=2.1304];
+	Legislature	[height=0.5,
+		pos="186,90",
+		width=1.7693];
+	Legislature -> Western	[pos="e,79.188,33.205 156.92,73.811 136.71,63.256 109.65,49.116 88.065,37.843"];
+}

@@ -1,0 +1,10 @@
+digraph G {
+  "National Department" -> "National Treasury"  [ label="is a" dir=back ];
+  "National Treasury" -> Municipality [ label="performs oversight over" ];
+  "Parliament" -> "National Department"  [ label="performs oversight over" ];
+  "Western Cape Gambling and Racing Board" -> "Gambling industry in Western Cape" [ label="regulates" ];
+  "Western Cape Provincial Legislature" -> "Western Cape Provincial Treasury" [ label="performs oversight over" ];
+  "Western Cape Provincial Treasury" -> "Western Cape Gambling and Racing Board" [ label="performs oversight over" ];
+  "Western Cape Provincial Treasury" -> "Western Cape Municipalities" [ label="performs oversight over" ];
+  Municipality -> "Western Cape Municipalities" [ label="is a" dir=back ];
+}
