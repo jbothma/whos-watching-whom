@@ -14,7 +14,7 @@ are needed for questions like
 > If whoever is supposed to be watching over them doesn't hold them to account,
   who can step in? Who watches the watcher?
 
-What are our next steps as concerned members of the public?
+> What are our next steps as concerned members of the public?
 
 To explore this, I'm using a diagramof the concepts, entities and relations in
 this system, with a Web Ontology style in mind.
